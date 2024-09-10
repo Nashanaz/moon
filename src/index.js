@@ -1,3 +1,3 @@
-console.log("Version 2.0")
-console.log("index 2.0")
+console.log("Version 3.0")
+console.log("index 3.0")
 
